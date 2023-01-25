@@ -1,6 +1,6 @@
 # Conferences with Open Source sprints
 
-Open source sprints are a fantastic way to get involved in the OSS community, but not all conferences do them. Here's conferences that I've found that do offer these.
+Mentored open source sprints are a fantastic way to get involved in the OSS community, but not all conferences do them. Here is a list of conferences that I've found that do offer these.
 
 If you know of any other conferences that have sprints, OSS hackathons, or similar please feel free to create an issue and let me know!
 
@@ -18,6 +18,13 @@ If you know of any other conferences that have sprints, OSS hackathons, or simil
 - [EuroSciPy](https://www.euroscipy.org/) - Basel, CH
 - [SciPy](https://www.scipy2023.scipy.org/) - Austin, TX, US
 - [SciPy LatAm](https://pythoncientifico.ar/) - Salta, AR
+
+## Rhttps://github.com/tidyverse/tidy-dev-day
+
+There are some satellite events associated with the big R conferences (useR!, posit::conf). Here are the satellite events.
+- [Tidyverse Dev Day](https://github.com/tidyverse/tidy-dev-day) - multiple locations
+- [Bug BBQ](https://contributor.r-project.org/events/bug-bbq) - virtual
+
 
 # Area focused
 
