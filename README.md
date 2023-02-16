@@ -18,8 +18,10 @@ If you know of any other conferences that have sprints, OSS hackathons, or simil
 - [EuroSciPy](https://www.euroscipy.org/) - Basel, CH
 - [SciPy](https://www.scipy2023.scipy.org/) - Austin, TX, US
 - [SciPy LatAm](https://pythoncientifico.ar/) - Salta, AR
+- [DjangoCon US](https://2023.djangocon.us/) - US
+- [DjangoCon EU](https://2023.djangocon.eu/) - Europe
 
-## Rhttps://github.com/tidyverse/tidy-dev-day
+## R
 
 There are some satellite events associated with the big R conferences (useR!, posit::conf). Here are the satellite events.
 - [Tidyverse Dev Day](https://github.com/tidyverse/tidy-dev-day) - multiple locations
