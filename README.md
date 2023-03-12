@@ -9,24 +9,26 @@ If you know of any other conferences that have sprints, OSS hackathons, or simil
 ## Julia
 
 - [JuliaCon](https://juliacon.org) - Cambridge, MA, US
+- [JuMP-dev](https://jump.dev/meetings/jumpdev2023/) - Cambridge, MA, US, concurrent with JuliaCon
 
 ## Python
 
 - [PyCon USA](https://us.pycon.org/) - Salt Lake City, UT, US
 - [PyCon Canada](https://2019.pycon.ca/) - Toronto, ON, CA - last conference was in 2019
+- [PyCon Australia](https://2023.pycon.org.au/) - Adelaide, SA, AU
 - [EuroPython](https://2019.pycon.ca/) - Dublin, IR
 - [EuroSciPy](https://www.euroscipy.org/) - Basel, CH
 - [SciPy](https://www.scipy2023.scipy.org/) - Austin, TX, US
 - [SciPy LatAm](https://pythoncientifico.ar/) - Salta, AR
 - [DjangoCon US](https://2023.djangocon.us/) - US
 - [DjangoCon EU](https://2023.djangocon.eu/) - Europe
+- [PyCascades](https://2023.pycascades.com/) - Vancouver, ON, CA
 
 ## R
 
 There are some satellite events associated with the big R conferences (useR!, posit::conf). Here are the satellite events.
 - [Tidyverse Dev Day](https://github.com/tidyverse/tidy-dev-day) - multiple locations
 - [Bug BBQ](https://contributor.r-project.org/events/bug-bbq) - virtual
-
 
 # Area focused
 
