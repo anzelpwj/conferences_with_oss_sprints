@@ -29,6 +29,7 @@ If you know of any other conferences that have sprints, OSS hackathons, or simil
 There are some satellite events associated with the big R conferences (useR!, posit::conf). Here are the satellite events.
 - [Tidyverse Dev Day](https://github.com/tidyverse/tidy-dev-day) - multiple locations
 - [Bug BBQ](https://contributor.r-project.org/events/bug-bbq) - virtual
+- [R Contributors Meetup](https://www.meetup.com/r-contributors/) - hosts OSS office hours, events virtual and in person
 
 # Area focused
 
